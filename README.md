@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-eyver.lat-2ea44f?style=for-the-badge)](https://eyver.lat)
 [![GitHub followers](https://img.shields.io/github/followers/eyverg8?style=for-the-badge&logo=github)](https://github.com/eyverg8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/eyverg8)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:eyverg8@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:eyverg8@proton.me)
 
 **AI Systems Engineer | LLM Specialist | Agent Architect | MLOps**
 
@@ -195,7 +195,7 @@ ls -la agents/
 | 🌐 Portfolio | [eyver.lat](https://eyver.lat) |
 | 💼 LinkedIn | [linkedin.com/in/eyverg8](https://linkedin.com/in/eyverg8) |
 | 🐦 Twitter/X | [@eyverg8](https://twitter.com/eyverg8) |
-| 📧 Email | [eyverg8@example.com](mailto:eyverg8@example.com) |
+| 📧 Email | [eyverg8@proton.me](mailto:eyverg8@proton.me) |
 
 ---
 
@@ -232,7 +232,7 @@ ls -la agents/
 
 *"The future belongs to those who can architect intelligence at scale"*
 
-[📧 Get in Touch](mailto:eyverg8@example.com) · [💼 LinkedIn](https://linkedin.com/in/eyverg8) · [🐦 Twitter](https://twitter.com/eyverg8) · [🌐 eyver.lat](https://eyver.lat)
+[📧 Get in Touch](mailto:eyverg8@proton.me) · [💼 LinkedIn](https://linkedin.com/in/eyverg8) · [🐦 Twitter](https://twitter.com/eyverg8) · [🌐 eyver.lat](https://eyver.lat)
 
 </div>
 
